@@ -1,3 +1,4 @@
+#Задачи 1 и 2
 from pprint import pprint
 
 def get_data():
