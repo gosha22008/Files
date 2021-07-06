@@ -1,1 +1,2 @@
-# Files [main.py](https://github.com/gosha22008/Files/blob/master/main.py)  и [file_recepts](https://github.com/gosha22008/Files/blob/master/file_recepts) для задач 1 и 2
+# Файлы [main.py](https://github.com/gosha22008/Files/blob/master/main.py)  и [file_recepts](https://github.com/gosha22008/Files/blob/master/file_recepts) для задач 1 и 2
+# Файлы [Files_3.py](https://github.com/gosha22008/Files/blob/master/Files_3.py) и [3.txt](https://github.com/gosha22008/Files/blob/master/3.txt), [2.txt](https://github.com/gosha22008/Files/blob/master/2.txt), [1.txt](https://github.com/gosha22008/Files/blob/master/1.txt) для задачи 3
